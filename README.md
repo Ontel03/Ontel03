@@ -13,7 +13,7 @@ I am a programmer Potato 🥔 from Indonesia and my hobby is eating
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ontel03&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ontel03&show_icons=true&theme=radical&line_height=21" alt="kazazeo31' github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ontel03&show_icons=true&theme=radical&line_height=21" alt="Ontel03' github stats"/>
 
 
 <!---
