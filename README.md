@@ -8,6 +8,7 @@
 
 I am a programmer Potato 🥔 from Indonesia and my hobby is eating
 - 🌱 I’m currently learning React
+- 🤖 Website my bot http://bot.electo.site
 - 🥅 2021 Goals: make some awesome Discord Bots :v
 
 
