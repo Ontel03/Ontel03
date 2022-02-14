@@ -7,12 +7,13 @@
 ### Hey i'm Ade Gald to see you here! &nbsp;
 
 I am a programmer Potato 🥔 from Indonesia and my hobby is eating
-- 🌱 I’m currently learning React
-- 🤖 Website my bot https://bot.electo.site/
+- 🌱 I’m currently learning C++
+- 👉🏼 Vote my bot
 - 🥅 2021 Goals: make some awesome Discord Bots :v
 
 
 <p align="center">
+  <img align="center" src="https://infinitybots.gg/bots/853155550127456267/widget?size=small"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ontel03&show_icons=true&layout=compact&hide_border=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ontel03&show_icons=true&theme=radical&line_height=21" alt="Ontel03' github stats"/>
 
