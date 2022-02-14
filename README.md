@@ -8,7 +8,7 @@
 
 I am a programmer Potato 🥔 from Indonesia and my hobby is eating
 - 🌱 I’m currently learning C++
-- 👉🏼 Vote my bot
+- 👉🏼 Vote my bot https://infinitybots.gg/bots/853155550127456267/vote
 - 🥅 2021 Goals: make some awesome Discord Bots :v
 
 
