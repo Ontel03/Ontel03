@@ -10,6 +10,7 @@
 - 📫 How to reach me: **My Discord ( https://discord.gg/fJekXq5jUP ) or PB on Discord Pixel#7068**
 - 😄 Pronouns: **Him/He**
 - ⚡ Fun fact: **I Have A Discord:O**
+- 🌏 Where im from: **Denmark**
 
 ### My Community ( https://discord.gg/fJekXq5jUP )
 
