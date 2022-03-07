@@ -32,4 +32,4 @@
 - **https://twitter.com/A1phaDK**
 
 ## TGAP Development [Discord]
-[![Developer Discord](https://discordapp.com/api/guilds/909261119103832084/widget.png?style=banner1)](https://discord.gg/fJekXq5jUP)
+[![Developer Discord](https://discordapp.com/api/guilds/909261119103832084/widget.png?style=banner2)](https://discord.gg/fJekXq5jUP)
