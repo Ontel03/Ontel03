@@ -28,8 +28,8 @@
 - 🔥 Read Our ToS On The Discord!
 
 ## Socials
-**https://github.com/pixelthedeveloper**
-**https://twitter.com/A1phaDK**
+- **https://github.com/pixelthedeveloper**
+- **https://twitter.com/A1phaDK**
 
 ## TGAP Development [Discord]
 [![Developer Discord](https://discordapp.com/api/guilds/909261119103832084/widget.png?style=banner1)](https://discord.gg/fJekXq5jUP)
