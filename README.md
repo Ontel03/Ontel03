@@ -33,4 +33,4 @@
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/channel/UCLcASWvEt3dFB8mydvPdSAg)
 
 ## TGAP Development [Discord]
-[![Developer Discord](https://discordapp.com/api/guilds/909261119103832084/widget.png?style=banner4)](https://discord.gg/fJekXq5jUP)
+[![Developer Discord](https://discordapp.com/api/guilds/909261119103832084/widget.png?style=banner1)](https://discord.gg/fJekXq5jUP)
