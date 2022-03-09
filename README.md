@@ -12,13 +12,11 @@
 - ⚡ Fun fact: **I Have A Discord:O**
 - 🌏 Where im from: **Denmark**
 
-### My Community ( https://discord.gg/fJekXq5jUP )
-
-- 🌏 Last Updated Members: **171**
-- 💬 Cool Chats For The Community: **Memes, Chat For DK And English**
-- 🎉 Cool Giveaways: **In The Giveaways channel**
-- ⚡ Only 2 Owners: **The Gamer, Pixel**
-- 📫 Online Admins And Staffs
+### ToS
+- ⚡ Don't Repost Our Work
+- ⚡ Don't Take Credit From Our Work
+- ⚡ Don't Sell Ours Scripts If They Are Free Or Paid
+- ⚡ Read The Discord To!
 
 ### My Scripts
 
