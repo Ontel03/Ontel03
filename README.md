@@ -1,4 +1,4 @@
-[![Pixel The Developer](https://media.discordapp.net/attachments/865636109815775242/951165070442922034/Banner.png)](https://github.com/pixelthedeveloper)
+[![Pixel The Developer](https://media.discordapp.net/attachments/865636109815775242/951165070442922034/Banner.png)](https://discord.gg/fJekXq5jUP)
 
 ### About Me:
 - 🔭 I’m currently working on: **ESX By Pixel (Custom ESX Server Pack)**
