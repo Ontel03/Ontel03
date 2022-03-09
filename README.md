@@ -25,6 +25,8 @@
 - 🔥 We Don't Support Any Kind Of Leaks
 - 🔥 Read Our ToS On The Discord!
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelthedeveloper&show_icons=true&hide_border=true&theme=radical">
+
 ## Socials
 - **https://github.com/PixelTheDeveloper**
 - **https://twitter.com/A1phaDK**
