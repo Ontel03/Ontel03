@@ -15,6 +15,10 @@
 - ⚡ Don't Sell Ours Scripts If They Are Free Or Paid
 - ⚡ Read The Discord To!
 
+### TO DO!
+- ⚡ Learn To Make Discord Logs Again i forgot lol
+- ⚡ Learn More About QTarget/BT-Target
+
 ## Socials
 - **https://github.com/PixelTheDeveloper**
 - **https://twitter.com/A1phaDK**
