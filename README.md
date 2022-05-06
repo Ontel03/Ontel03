@@ -8,21 +8,15 @@
 - 👾 Supporting: **Stop The Resellers**
 - 👾 My Team: **Pixel(Me) and The Gamer**
 
-
-### ToS
-- ⚡ Don't Repost Our Work
-- ⚡ Don't Take Credit From Our Work
-- ⚡ Don't Sell Ours Scripts If They Are Free Or Paid
-- ⚡ Read The Discord To!
-
 ### TO DO!
 - ⚡ Learn To Make Discord Logs Again i forgot lol
-- ⚡ Learn More About QTarget/BT-Target
+- ⚡ Learn More About FivemTarget
+- ⚡ Trying To Be More Online
 
 ## Socials
-- **https://github.com/PixelTheDeveloper**
+- **https://github.com/PixelCommunity**
 - **https://twitter.com/A1phaDK**
-- **https://discord.gg/fJekXq5jUP**
+- **https://discord.gg/e3S4Svrewg**
 
-## TGPX Development [Discord]
-[![Developer Discord](https://discordapp.com/api/guilds/909261119103832084/widget.png?style=banner2)](https://discord.gg/fJekXq5jUP)
+## Pixel Community [Discord]
+[![Developer Discord](https://discordapp.com/api/guilds/960905721887719534/widget.png?style=banner2)](https://discord.gg/e3S4Svrewg)
