@@ -3,3 +3,7 @@
 
 ## Discord Server
 [![Community Discord](https://discordapp.com/api/guilds/993641348022407280/widget.png?style=banner2)](https://discord.gg/VRAYSTb9v9)
+
+## Information About Me.
+# I'm a discord bot developer.
+# I'm a male.
