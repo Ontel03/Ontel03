@@ -1,4 +1,4 @@
-[[![Discord profile][[([https://discord.c99.nl/widget/theme-2/711712752246325343.png]](https://discord.c99.nl/widget/theme-1/711712752246325343.png)
+https://discord.c99.nl/widget/theme-1/711712752246325343.png
 
 ### About Me:
 - 👾 Working On: **ESX By Pixel (Custom ESX Server Pack)**
