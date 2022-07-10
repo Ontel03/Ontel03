@@ -1,4 +1,4 @@
-[![Pixel The Developer](https://media.discordapp.net/attachments/865636109815775242/951165070442922034/Banner.png)](https://discord.gg/fJekXq5jUP)
+[![Discord profile](https://discord.c99.nl/widget/theme-2/902313445121212536.png)](https://discord.com/users/711712752246325343)
 
 ### About Me:
 - 👾 Working On: **ESX By Pixel (Custom ESX Server Pack)**
@@ -14,9 +14,8 @@
 - ⚡ Trying To Be More Online
 
 ## Socials
-- **https://github.com/PixelCommunity**
-- **https://twitter.com/A1phaDK**
-- **https://discord.gg/e3S4Svrewg**
+- **https://github.com/PxPScripts**
+
 
 ## Pixel Community [Discord]
 [![Developer Discord](https://discordapp.com/api/guilds/960905721887719534/widget.png?style=banner2)](https://discord.gg/e3S4Svrewg)
