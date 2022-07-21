@@ -4,9 +4,6 @@
 ## My Discord Bot
 [![Discord Bots](https://top.gg/api/widget/804914348778717255.svg)](https://top.gg/bot/804914348778717255)
 
-## Discord Server
-[![Community Discord](https://discordapp.com/api/guilds/993641348022407280/widget.png?style=banner2)]
-
 ## Information About Me.
 - I'm a Discord Bot Developer.
 - I'm a boy.
