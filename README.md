@@ -2,7 +2,7 @@
 [![Discord Profile](https://discord.c99.nl/widget/theme-1/711712752246325343.png)](https://discord.com/users/483357154502377473)
 
 ## My Discord Bot
-[![Discord Bots](https://top.gg/api/widget/804914348778717255.svg)
+[![Discord Bots](https://top.gg/api/widget/804914348778717255.svg])
 
 ## Discord Server
 [![Community Discord](https://discordapp.com/api/guilds/993641348022407280/widget.png?style=banner2])
