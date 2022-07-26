@@ -5,9 +5,4 @@
 [![Discord Bots](https://top.gg/api/widget/804914348778717255.svg)](https://top.gg/bot/804914348778717255)
 
 ## Information About Me.
-- I'm a Discord Bot Developer.
-- I'm a boy.
-- I Live In Denmark.
-- I'm a Community Owner (Discord Dungeons new project...)
-- I'm a JavaScript, Lua Developer
-- I Was a FiveM Developer (I Stopped Cause I Didnt Want To Develop That Shit Anymore The Scripts I Have Made Is Still On The Github)
+cock
