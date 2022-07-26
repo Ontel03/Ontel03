@@ -5,4 +5,4 @@
 [![Discord Bots](https://top.gg/api/widget/804914348778717255.svg)](https://top.gg/bot/804914348778717255)
 
 # Information About Me.
-- Peep Lover:D
+- Sucker
