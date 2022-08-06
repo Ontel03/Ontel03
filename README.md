@@ -3,5 +3,8 @@
 # Discord Profile
 [![Discord Profile](https://discord.c99.nl/widget/theme-1/711712752246325343.png)](https://discord.com/users/483357154502377473)
 
-# My Discord Bot
+# My Discord Bot - Top.gg
 [![Discord Bots](https://top.gg/api/widget/804914348778717255.svg)](https://top.gg/bot/804914348778717255)
+
+# My Discord Bot - Discordbotlist.com
+<a href="https://discordbotlist.com/bots/804914348778717255"><img src="https://discordbotlist.com/api/v1/bots/804914348778717255/widget"></a>
