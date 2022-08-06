@@ -7,4 +7,4 @@
 [![Discord Bots](https://top.gg/api/widget/804914348778717255.svg)](https://top.gg/bot/804914348778717255)
 
 # My Discord Bot - Discordbotlist.com
-<a href="https://discordbotlist.com/bots/804914348778717255"><img src="https://discordbotlist.com/api/v1/bots/804914348778717255/widget"></a>
+[![Discord Bot](https://discordbotlist.com/bots/804914348778717255)]("https://discordbotlist.com/api/v1/bots/804914348778717255/widget)
