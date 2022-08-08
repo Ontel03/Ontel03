@@ -6,5 +6,5 @@
 # My Discord Bot - Top.gg
 [![Discord Bots](https://top.gg/api/widget/804914348778717255.svg)](https://top.gg/bot/804914348778717255)
 
-# My Discord Bot - Discordbotlist.com
-[![Discord Bot](https://discordbotlist.com/api/v1/bots/804914348778717255/widget)](https://discordbotlist.com/bots/804914348778717255)
+# My Discord Bot - infinitybots.gg
+[![Discord Bot](https://infinitybots.gg/bots/804914348778717255/widget?size=large)](https://infinitybots.gg/bots/804914348778717255)
