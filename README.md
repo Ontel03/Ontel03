@@ -1,5 +1,6 @@
 # Welcome To My Page!
-
+> 1. I don't code Lua anymore! Please don't ask for FiveM shit:)
+> 
 ## Discord =>
 > 1. My Username Is Ducko#7068
 > 2. My Main Project is right now [Peep](https://discord.gg/g8zDJ8jPn8)
