@@ -1,6 +1,7 @@
 # Welcome To My Page!
 > I don't code Lua anymore! Please don't ask for FiveM shit:)
 > 
+> Any Questions about anything can be sent in dm:)
 ## Discord =>
 > My Username Is Ducko#7068
 > 
