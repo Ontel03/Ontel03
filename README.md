@@ -2,7 +2,7 @@
 
 
 
-# Discord =>
+## Discord =>
 ```
 Required Tools For Every Bot Script.
 npm install discord.js@14.1.0 (Discord JS Libery)
