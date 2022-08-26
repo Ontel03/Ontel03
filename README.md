@@ -2,7 +2,7 @@
 
 <a href="https://github.com/DuckoDas"><img src="https://komarev.com/ghpvc/?username=DuckoDas&style=flat-square&color=009F81&label=Github+profile+views" alt="profile views"></a>
 
-
+<a href="https://discord.gg/TKz7BMwEap">![Discord](https://img.shields.io/discord/909261119103832084?style=for-the-badge)</a>
 ![Downloads - Total](https://img.shields.io/github/downloads/DuckoDas/DuckoDas/total?style=for-the-badge)
 
 ```js
