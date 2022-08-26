@@ -1,21 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ducko</h1>
+<h3 align="center">I am a JavaScript developer that codes Discord bots and other stuff!</h3>
 
-<a href="https://github.com/DuckoDas"><img src="https://komarev.com/ghpvc/?username=DuckoDas&style=flat-square&color=009F81&label=Github+profile+views" alt="profile views"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duckodas&label=Profile%20views&color=0e75b6&style=flat" alt="duckodas" /> </p>
 
-![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duckodas" alt="duckodas" /></a> </p>
 
-<a href="https://discord.gg/TKz7BMwEap">![Discord](https://img.shields.io/discord/909261119103832084?style=for-the-badge)</a>
+- 🔭 I’m currently working on [Peep](https://github.com/Peep-Official)
 
-```js
-const AboutMe = new EmbedBuilder()
-.setTitle("About Ducko...")
-.setDescription("Ducko is a learner that always learns new things while coding Discord bots and other stuff!")
-interaction.reply({ embeds: [AboutMe] })
-```
+- 🌱 I’m currently learning **More JavaScript and TypeScript**
 
-```js
+- 💬 Ask me about **JavaScript**
 
-if (Hot) {
- return console.log(`True`)
-}
-```
+- 📫 How to reach me **On my Discord Server! discord.gg/TKz7BMwEap**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/TKz7BMwEap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TKz7BMwEap" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duckodas&show_icons=true&locale=en" alt="duckodas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duckodas&" alt="duckodas" /></p>
