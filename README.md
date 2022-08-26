@@ -7,7 +7,7 @@
 >
 ```js
 
-if (Ducko) {
- console.log("Hot");
+if (Hot) {
+ return console.log(`True`)
 }
 ```
