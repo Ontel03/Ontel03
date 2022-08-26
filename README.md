@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 **Credit To These People**
 > [Lunar Cause His a Cool Person!](https://discord.gg/GA2Y4jzk9n)
 > 
