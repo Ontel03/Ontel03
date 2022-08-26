@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<a href="https://github.com/DuckoDas"><img src="https://komarev.com/ghpvc/?username=DuckoDas&style=flat-square&color=333333&label=Github+profile+views" alt="profile views"></a>
+
 ```js
 const AboutMe = new EmbedBuilder()
 .setTitle("About Ducko...")
