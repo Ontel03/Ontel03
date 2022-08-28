@@ -24,9 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duckodas&show_icons=true&locale=en" alt="duckodas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duckodas&" alt="duckodas" /></p>
-
-<table>
-  <tr>
-     <td align="center"><a href="https://github.com/DuckoDas"><img src="https://avatars0.githubusercontent.com/u/51528076?s=460&u=d1e28ca661a14f0b3428cc07dd410f36f891966b&v=4" width="100px;" alt=""/><br /><sub><b>Ducko ✨</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DuckoDas" title="Developer">💻</a></td>
- </tr>
- </table>
