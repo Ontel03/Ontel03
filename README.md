@@ -7,13 +7,13 @@
 [![issues](https://img.shields.io/github/issues/DuckoDas/DuckoDas?style=for-the-badge&color=d84559)](https://github.com/DuckoDas/DuckoDas)
 [![stars](https://img.shields.io/github/stars/duckodas?color=009F81&label=stars&style=for-the-badge)](https://github.com/DuckoDas/)
 [![followers](https://img.shields.io/github/followers/DuckoDas?color=009F81&style=for-the-badge)](https://github.com/DuckoDas/)
+  
   <a href="https://github.com/DuckoDas/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DuckoDas&style=for-the-badge">
 </a>
+  
 </div>
 <hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duckodas&label=Profile%20views&color=0e75b6&style=flat" alt="duckodas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duckodas" alt="duckodas" /></a> </p>
 
