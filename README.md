@@ -7,8 +7,8 @@
 [![issues](https://img.shields.io/github/issues/DuckoDas/DuckoDas?style=for-the-badge&color=d84559)](https://github.com/DuckoDas/DuckoDas)
 [![stars](https://img.shields.io/github/stars/duckodas?color=009F81&label=stars&style=for-the-badge)](https://github.com/DuckoDas/)
 [![followers](https://img.shields.io/github/followers/DuckoDas?color=009F81&style=for-the-badge)](https://github.com/DuckoDas/)
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+  <a href="https://github.com/DuckoDas/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DuckoDas&style=for-the-badge">
 </a>
 </div>
 <hr>
