@@ -4,6 +4,8 @@
 <div align="center">
   
 [![discord](https://img.shields.io/discord/909261119103832084?style=for-the-badge&color=5865f2&label=Discord)](https://discord.gg/TKz7BMwEap)
+[![issues](https://img.shields.io/github/issues/DuckoDas/DuckoDas?style=for-the-badge)](https://github.com/DuckoDas/DuckoDas)
+  
 </div>
 <hr>
 
