@@ -16,8 +16,6 @@
 </div>
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duckodas" alt="duckodas" /></a> </p>
-
 - 🔭 I’m currently working on [Peep](https://github.com/Peep-Official)
 
 - 🌱 I’m currently learning **More JavaScript and TypeScript**
