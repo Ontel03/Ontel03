@@ -26,7 +26,9 @@
 
 ## Projects
 [Discord V14 Templates](https://github.com/DuckoDas/discordjs-v14-templates)
+
 [Welcome/Leave System](https://github.com/DuckoDas/djs-welcome-system)
+
 [Ticket System](https://github.com/DuckoDas/djs-ticket-system)
 
 <h3 align="left">Connect with me:</h3>
