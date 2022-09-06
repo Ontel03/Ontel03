@@ -24,6 +24,11 @@
 
 - 📫 How to reach me **On my Discord Server! discord.gg/TKz7BMwEap**
 
+## Projects
+[Discord V14 Templates](https://github.com/DuckoDas/discordjs-v14-templates)
+[Welcome/Leave System](https://github.com/DuckoDas/djs-welcome-system)
+[Ticket System](https://github.com/DuckoDas/djs-ticket-system)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/TKz7BMwEap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TKz7BMwEap" height="30" width="40" /></a>
