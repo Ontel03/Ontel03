@@ -18,18 +18,9 @@
 
 - 🔭 I’m currently working on [Peep](https://github.com/Peep-Official)
 
-- 🌱 I’m currently learning **More JavaScript and TypeScript**
-
-- 💬 Ask me about **JavaScript**
+- 🌱 I’m currently learning **JavaScript and TypeScript**
 
 - 📫 How to reach me **On my Discord Server! discord.gg/TKz7BMwEap**
-
-## Projects
-- [Discord V14 Templates](https://github.com/DuckoDas/discordjs-v14-templates)
-- [Welcome/Leave System](https://github.com/DuckoDas/djs-welcome-system)
-- [Ticket System OLD](https://github.com/DuckoDas/djs-ticket-system)
-- [Ticket System NEW](https://github.com/DuckoDas/DJS-Ticket-System-v14)
-- [Suggestion System](https://github.com/DuckoDas/DJS-Suggestion-System-v14)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
