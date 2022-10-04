@@ -3,9 +3,10 @@
 
 <div align="center">
 
+<img src="https://lanyard.cnrad.dev/api/711712752246325343">
+
 [![discord](https://img.shields.io/discord/909261119103832084?style=for-the-badge&color=5865f2&label=Discord)](https://discord.gg/TKz7BMwEap)
   
-[![issues](https://img.shields.io/github/issues/DuckoDas/DuckoDas?style=for-the-badge&color=d84559)](https://github.com/DuckoDas/DuckoDas)
 [![stars](https://img.shields.io/github/stars/DuckoDas?color=009F81&label=stars&style=for-the-badge)](https://github.com/DuckoDas/)
 [![followers](https://img.shields.io/github/followers/DuckoDas?color=009F81&style=for-the-badge)](https://github.com/DuckoDas/)
   
@@ -15,21 +16,3 @@
   
 </div>
 <hr>
-
-- 🔭 I’m currently working on [Peep](https://github.com/Peep-Official)
-
-- 🌱 I’m currently learning **JavaScript and TypeScript**
-
-- 📫 How to reach me **On my Discord Server! discord.gg/TKz7BMwEap**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/TKz7BMwEap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TKz7BMwEap" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duckodas&show_icons=true&locale=en" alt="duckodas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duckodas&" alt="duckodas" /></p>
