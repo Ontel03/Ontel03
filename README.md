@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ducko</h1>
-<h3 align="center">I am a JavaScript developer that codes Discord bots and other stuff!</h3>
+<h3 align="center">Coding stuff for fun.</h3>
 
 <div align="center">
 
