@@ -23,7 +23,7 @@ Skills:    JavaScrip, Lua, Learning TypeScript
 Stats
 ```
 
-<a href="https://github.com/DuckoDas/github-profile-views-counter">
+<a href="https://github.com/DuckoDas/">
   <img src="https://komarev.com/ghpvc/?username=DuckoDas&color=5865f2&style=for-the-badge">
 </a>
 
