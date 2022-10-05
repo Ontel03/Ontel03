@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/711712752246325343">
+<img src="https://discord.c99.nl/widget/theme-4/711712752246325343.png">
 
 [![discord](https://img.shields.io/discord/909261119103832084?style=for-the-badge&color=5865f2&label=Discord)](https://discord.gg/TKz7BMwEap)
   
