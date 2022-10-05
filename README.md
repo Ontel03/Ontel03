@@ -14,7 +14,7 @@ Discord:   711712752246325343
 Skills:    JavaScrip, Lua, Learning TypeScript
 ```
 <p align="left">
-  <a href="https://discord.com/users/697541992770437130">
+  <a href="https://discord.com/users/711712752246325343">
     <img src="https://discord.c99.nl/widget/theme-4/711712752246325343.png"/>
   </a>
 </p>
