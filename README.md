@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ducko</h1>
-<h3 align="center">Coding stuff for fun.</h3>
+```bash
+Information
+```
 
-<div align="center">
+<img src="mypfp.png" align="left" width=200>
 
-<img src="https://discord.c99.nl/widget/theme-4/711712752246325343.png">
-
-[![discord](https://img.shields.io/discord/909261119103832084?style=for-the-badge&color=5865f2&label=Discord)](https://discord.gg/TKz7BMwEap)
+```ts
+Ducko
+-----------
+OS:        Windows
+DE:        Normal JavaScript Developer from Denmark
+Uptime:    14 years
+Discord:   711712752246325343
+Skills:    JavaScrip, Lua, Learning TypeScript
+```
+<p align="left">
+  <a href="https://discord.com/users/697541992770437130">
+    <img src="https://discord.c99.nl/widget/theme-4/711712752246325343.png"/>
+  </a>
+</p>
   
-[![stars](https://img.shields.io/github/stars/DuckoDas?color=009F81&label=stars&style=for-the-badge)](https://github.com/DuckoDas/)
-[![followers](https://img.shields.io/github/followers/DuckoDas?color=009F81&style=for-the-badge)](https://github.com/DuckoDas/)
-  
+```bash
+Stats
+```
+
 <a href="https://github.com/DuckoDas/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=DuckoDas&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=DuckoDas&color=5865f2&style=for-the-badge">
 </a>
-  
-</div>
-<hr>
+
+[![stars](https://img.shields.io/github/stars/DuckoDas?color=5865f2&label=stars&style=for-the-badge)](https://github.com/DuckoDas/)
+[![followers](https://img.shields.io/github/followers/DuckoDas?color=5865f2&style=for-the-badge)](https://github.com/DuckoDas/)
