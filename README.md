@@ -18,9 +18,6 @@ Bots:      Framework, Peep, Shield
   <a href="https://discord.com/users/711712752246325343">
     <img src="https://discord.c99.nl/widget/theme-4/711712752246325343.png"/>
   </a>
-</p>
-
-<p align="right">
   <a href="https://discord.com/users/711712752246325343">
     <img src="https://discord.c99.nl/widget/theme-1/711712752246325343.png"/>
   </a>
