@@ -13,6 +13,7 @@ Uptime:    14 years
 Discord:   711712752246325343
 Skills:    JavaScrip, Lua, Learning TypeScript
 Bots:      Framework, Peep, Shield
+Discords:  JT Developers
 ```
 <p align="left">
   <a href="https://discord.com/users/711712752246325343">
