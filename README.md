@@ -11,7 +11,7 @@ OS:        Windows
 DE:        Normal JavaScripter from Denmark
 Uptime:    14 years
 Discord:   711712752246325343
-Skills:    JavaScrip, Lua, Learning TypeScript
+Skills:    JavaScript, Lua, Learning TypeScript
 Bots:      Framework, Peep, Shield
 Discords:  JT Developers
 ```
