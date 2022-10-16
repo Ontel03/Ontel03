@@ -8,9 +8,9 @@ Information
 Ducko
 -----------
 OS:        Windows
-DE:        Normal JavaScripter from Denmark
+DEC:        Normal JavaScripter from Denmark
 Uptime:    14 years
-Discord:   711712752246325343
+Discord:   Ducko#7068 - 711712752246325343
 Skills:    JavaScript, Lua, Learning TypeScript
 Bots:      Framework, Peep, Shield
 Discords:  JT Developers
