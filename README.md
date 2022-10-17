@@ -1,36 +1,3 @@
-```bash
-Information
-```
-
-<img src="SHEEP.png" align="left" width=200>
-
-```ts
-Ducko
------------
-OS:        Windows
-DEC:       Normal JavaScripter from Denmark
-Uptime:    14 years
-Discord:   Ducko#7068 - 711712752246325343
-Skills:    JavaScript, Lua, Learning TypeScript
-Bots:      Framework, Peep, Shield
-Discords:  JT Developers
-```
-<p align="left">
-  <a href="https://discord.com/users/711712752246325343">
-    <img src="https://discord.c99.nl/widget/theme-4/711712752246325343.png"/>
-  </a>
-  <a href="https://discord.com/users/711712752246325343">
-    <img src="https://discord.c99.nl/widget/theme-1/711712752246325343.png"/>
-  </a>
-</p>
-  
-```bash
-Stats
-```
-
-<a href="https://github.com/DuckoDas/">
-  <img src="https://komarev.com/ghpvc/?username=DuckoDas&color=5865f2&style=for-the-badge">
-</a>
-
-[![stars](https://img.shields.io/github/stars/DuckoDas?color=5865f2&label=stars&style=for-the-badge)](https://github.com/DuckoDas/)
 [![followers](https://img.shields.io/github/followers/DuckoDas?color=5865f2&style=for-the-badge)](https://github.com/DuckoDas/)
+
+![Metrics](https://metrics.lecoq.io/DuckoDas?template=classic&languages=1&isocalendar=1&achievements=1&activity=1&people=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=4&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Europe%2FCopenhagen&config.twemoji=true)
