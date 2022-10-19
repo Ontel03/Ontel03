@@ -16,15 +16,15 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCLcASWvEt3dFB8mydvPdSAg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](SOON)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
