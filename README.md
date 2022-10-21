@@ -1,7 +1,7 @@
 # Hi there, i'm Ducko!
 
-[![Visitors](https://komarev.com/ghpvc/?username=DuckoDas&color=037F50&style=for-the-badge)](https://github.com/DuckoDas)
-[![followers](https://img.shields.io/github/followers/DuckoDas?color=037F50&style=for-the-badge)](https://github.com/DuckoDas)
+[![Visitors](https://komarev.com/ghpvc/?username=DuckoDas&color=037F50&style=for-the-badge)](https://github.com/Ontel03)
+[![followers](https://img.shields.io/github/followers/DuckoDas?color=037F50&style=for-the-badge)](https://github.com/Ontel03)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -18,17 +18,17 @@
 
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCLcASWvEt3dFB8mydvPdSAg#gh-dark-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/c/adefahrozi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](SOON)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagra.com/iam.adee_#gh-dark-mode-only)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DuckoDas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ontel03&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
