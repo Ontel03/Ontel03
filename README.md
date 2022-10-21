@@ -1,7 +1,7 @@
 # Hi there, i'm Ducko!
 
-[![Visitors](https://komarev.com/ghpvc/?username=DuckoDas&color=037F50&style=for-the-badge)](https://github.com/Ontel03)
-[![followers](https://img.shields.io/github/followers/DuckoDas?color=037F50&style=for-the-badge)](https://github.com/Ontel03)
+[![Visitors](https://komarev.com/ghpvc/?username=Ontel03&color=037F50&style=for-the-badge)](https://github.com/Ontel03)
+[![followers](https://img.shields.io/github/followers/Ontel03?color=037F50&style=for-the-badge)](https://github.com/Ontel03)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
