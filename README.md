@@ -1,4 +1,4 @@
-# Hi there, i'm Ducko!
+# Hi there, i'm Ade!
 
 [![Visitors](https://komarev.com/ghpvc/?username=Ontel03&color=037F50&style=for-the-badge)](https://github.com/Ontel03)
 [![followers](https://img.shields.io/github/followers/Ontel03?color=037F50&style=for-the-badge)](https://github.com/Ontel03)
