@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ontel03/Ontel03/main/assets/header.gif" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=C8F03D&center=true&vCenter=true&width=600&lines=root%40ontel03%3A~%24+whoami;Roblox+Developer;Full-Stack+Builder;Founder+of+NullWave;Building+for+Indonesian+Roblox+Devs" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=C8F03D&center=true&vCenter=true&width=600&lines=root%40ontel03%3A~%24+whoami;Roblox+Developer;Full-Stack+Builder;Building+for+Indonesian+Roblox+Devs" alt="typing"/>
 
 <br/>
 
@@ -102,9 +102,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ontel03&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=c8f03d&icon_color=c8f03d&text_color=9ca3af&bg_color=0a0c0a" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ontel03&theme=dark&hide_border=true&ring=c8f03d&fire=c8f03d&currStreakLabel=c8f03d&background=0a0c0a" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ontel03&theme=dark&hide_border=true&layout=compact&title_color=c8f03d&text_color=9ca3af&bg_color=0a0c0a" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ontel03&theme=dark&hide_border=true&layout=compact&title_color=c8f03d&text_color=9ca3af&bg_color=0a0c0a" width="60%"/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ontel03&theme=react-dark&hide_border=true&bg_color=0a0c0a&color=c8f03d&line=c8f03d&point=ffffff" width="95%"/>
 
@@ -122,8 +122,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Ontel03/NULLWAVE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ontel03&repo=NULLWAVE&theme=dark&hide_border=true&title_color=c8f03d&icon_color=c8f03d&text_color=9ca3af&bg_color=0a0c0a"/>
+<a href="https://github.com/Ontel03/panelrobloxadmin">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ontel03&repo=panelrobloxadmin&theme=dark&hide_border=true&title_color=c8f03d&icon_color=c8f03d&text_color=9ca3af&bg_color=0a0c0a"/>
 </a>
 
 </div>
