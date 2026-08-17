@@ -1,18 +1,147 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://is.gd/afxygcommunity) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adee.f_) 
+<img src="https://raw.githubusercontent.com/Ontel03/Ontel03/main/assets/header.gif" width="100%" alt="banner"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ontel03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ontel03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ontel03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=C8F03D&center=true&vCenter=true&width=600&lines=root%40ontel03%3A~%24+whoami;Roblox+Developer;Full-Stack+Builder;Founder+of+NullWave;Building+for+Indonesian+Roblox+Devs" alt="typing"/>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ontel03&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://img.shields.io/badge/status-online-c8f03d?style=flat-square&labelColor=0a0c0a"/>
+<img src="https://komarev.com/ghpvc/?username=Ontel03&color=c8f03d&style=flat-square&label=visits"/>
+<img src="https://img.shields.io/badge/uptime-since%202023-c8f03d?style=flat-square&labelColor=0a0c0a"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+```yaml
+> system.profile:
+  name: Ontel03
+  role: [Roblox Developer, Full-Stack Builder]
+  project: NullWave — ekosistem & tools untuk komunitas Roblox Indonesia
+  mission: "Bikin development Roblox lebih rapi, terbuka, dan gampang diakses."
+  status: actively_building
+```
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Uplink
+
+<a href="https://discord.gg/GANTI-INVITE-CODE"><img src="https://img.shields.io/badge/DISCORD-JOIN%20SERVER-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0c0a"/></a><br/>
+<a href="https://instagram.com/adee.f_"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0c0a"/></a><br/>
+<a href="https://github.com/Ontel03"><img src="https://img.shields.io/badge/GITHUB-Ontel03-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0c0a"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Currently
+
+```diff
++ Building NullWave core systems
++ Exploring Luau ↔ TypeScript tooling
+! Open for collabs on Roblox tooling
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details open>
+<summary><b>⚙️ Tech Stack — click to expand</b></summary>
+<br/>
+
+<table width="100%">
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,cpp&theme=dark"/><br/>
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Cloud & Infra**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare&theme=dark"/><br/>
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-FF6701?style=flat-square&logo=alibabacloud&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,nextjs,supabase&theme=dark"/>
+
+</td>
+<td valign="top" width="25%">
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=ps,premiere&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📊 Stats & Activity — click to expand</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ontel03&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=c8f03d&icon_color=c8f03d&text_color=9ca3af&bg_color=0a0c0a" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ontel03&theme=dark&hide_border=true&ring=c8f03d&fire=c8f03d&currStreakLabel=c8f03d&background=0a0c0a" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ontel03&theme=dark&hide_border=true&layout=compact&title_color=c8f03d&text_color=9ca3af&bg_color=0a0c0a" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ontel03&theme=react-dark&hide_border=true&bg_color=0a0c0a&color=c8f03d&line=c8f03d&point=ffffff" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ontel03&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" width="80%"/>
+
+</div>
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🚀 Featured Project</b></summary>
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Ontel03/NULLWAVE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ontel03&repo=NULLWAVE&theme=dark&hide_border=true&title_color=c8f03d&icon_color=c8f03d&text_color=9ca3af&bg_color=0a0c0a"/>
+</a>
+
+</div>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/><br/>
+
+```yaml
+> connection.status: "thanks for stopping by 💚"
+```
+
+<sub>© Ontel03 — built with intent, not just imported.</sub>
+
+</div>
